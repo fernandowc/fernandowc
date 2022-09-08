@@ -5,6 +5,8 @@
 
 - A lo largo de mi carrera profesional he venido trabajando para proyectos bancarios y el sistema privado de pensiones tales como: [BBVA](https://www.bbva.pe/), [BCP](https://www.viabcp.com/), [BANCO W](https://www.bancow.com.co/), [BAC CREDOMATIC](https://www.baccredomatic.com/), [AFP PRIMA](https://www.prima.com.pe/public-zone/)
 
+- Ingeniero desarrollador de software con mas de 5 años de experiencia en la industria de tecnologías de información, teniendo larga experiencia en el sector de banca, con metodología de desarrollo ágil en Español e Inglés. También, me adapto fácilmente a los cambios y tengo facilidad para trabajar en equipos remotos. Además, me fascina aprender nuevas tecnologías
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luis-fernando-vidal-usquiano-99963a1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-fernando-vidal-usquiano-99963a1a1" height="30" width="40" /></a>
