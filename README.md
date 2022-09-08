@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandowc&label=Profile%20views&color=0e75b6&style=flat" alt="fernandowc" /> </p>
 
-- 🔭 Estoy trabajando actualmente para proyectos bancarios y el sistema privado de pensiones [BBVA](https://www.bbva.pe/), [BCP](https://www.viabcp.com/), [AFP PRIMA](https://www.prima.com.pe/public-zone/)
+- 🔭 Estoy trabajando actualmente para proyectos bancarios y el sistema privado de pensiones [BBVA](https://www.bbva.pe/), [BCP](https://www.viabcp.com/), [BancoW](https://www.bancow.com.co/), [AFP PRIMA](https://www.prima.com.pe/public-zone/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
