@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandowc&label=Profile%20views&color=0e75b6&style=flat" alt="fernandowc" /> </p>
 
-- A lo largo de mi carrera profesional he venido trabajando para proyectos bancarios y el sistema privado de pensiones tales como: [BBVA](https://www.bbva.pe/), [BCP](https://www.viabcp.com/), [BANCO W](https://www.bancow.com.co/), [BAC CREDOMATIC](https://www.baccredomatic.com/), [AFP PRIMA](https://www.prima.com.pe/public-zone/)
+- A lo largo de mi carrera profesional he venido trabajando para proyectos bancarios y el sistema privado de pensiones tales como: [BBVA](https://www.bbva.pe/), [BCP](https://www.viabcp.com/), [BANCO W](https://www.bancow.com.co/), [BAC CREDOMATIC](https://www.baccredomatic.com/), [AFP PRIMA](https://www.prima.com.pe/public-zone/), [Banco Pichincha](https://www.pichincha.pe/), [Pacifico Seguros](https://www.pacifico.com.pe/home-personas)
 
 - Ingeniero desarrollador de software con mas de 8 años de experiencia en la industria de tecnologías de información, teniendo larga experiencia en el sector de banca, con metodología de desarrollo ágil en Español e Inglés. También, me adapto fácilmente a los cambios y tengo facilidad para trabajar en equipos remotos. Además, me fascina aprender nuevas tecnologías
 
